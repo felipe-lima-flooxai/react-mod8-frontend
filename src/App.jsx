@@ -3,6 +3,7 @@ import Todo from './todo/todo'
 import About from './about/about.jsx'
 import Menu from "./template/menu.jsx"
 import AppRouter from './routes.jsx'
+import "./template/custom.css"
 
 
 
